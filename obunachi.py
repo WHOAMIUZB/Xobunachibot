@@ -5,7 +5,7 @@ from aiogram.types import Message
 from aiogram.filters import CommandStart
 from aiogram.utils.keyboard import ReplyKeyboardRemove
 
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'  # @BotFather dan olingan token
+API_TOKEN = '7813937733:AAHtgxXK1eNXVxX0nhAZk-dcMEFV3jyuhhI'  # @BotFather dan olingan token
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
