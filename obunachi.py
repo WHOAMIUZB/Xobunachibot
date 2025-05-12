@@ -3,7 +3,7 @@ import aiosqlite
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message
 from aiogram.filters import CommandStart
-from aiogram.utils.keyboard import ReplyKeyboardRemove
+from aiogram.types import ReplyKeyboardRemove
 
 API_TOKEN = '7813937733:AAHtgxXK1eNXVxX0nhAZk-dcMEFV3jyuhhI'  # @BotFather dan olingan token
 
